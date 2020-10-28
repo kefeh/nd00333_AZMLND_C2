@@ -47,11 +47,15 @@ We enable logging for our deployed model endpoint.
 ![enabling logging](./enable_logging-1.png)
 ![enabling logging](./enable_logging-2.png)
 
-### Read endpoint document. 
+### Read endpoint documentation. 
 We get the ``swagger.json`` file from our endpoint details. We use this file to generate documentation on our to consume our endpoints with ``swagger``.
 
 Getting swagger.json
 ![Getting swagger](./get_swagger_json.png)
+
+Here is a view of the documentation of our endpoints
+![swagger doc 1](./swagger_doc-1.png)
+![swagger doc 1](./swagger_doc-2.png)
 
 
 ### Consume our endpoint
