@@ -73,11 +73,19 @@ Here is our published pipeline
 ![publish pipeline](./pipeline-rest-point-two.png)
 ![publish pipeline](./pipeline-rest-point-three.png)
 
+Here we can see that our pipeline is active
+![publish pipepline](./pipeline-active-one.png)
+![publish pipepline](./pipeline-active-two.png)
+![publish pipepline](./pipeline-active-three.png)
+
 ### Consume our published pipeline
 
 We consume our published pipeline:
 ![consume pipeline](./scheduled-pipeline-restpoint-run.png)
 ![consume pipeline](./consume-published-pipeline.png)
+
+Here is our scheduled run
+![consume pipepline](./scheduled-pipeline-restpoint-run-two.png)
 
 ## Screen Recording
 We have successfully recorded a screen showing how this project works. The video can be found at this [link](https://youtu.be/KNpKExpGcD0)
